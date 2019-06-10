@@ -1,1 +1,2 @@
-This is the firsrt cide file. 
+This is the firsrt code file. 
+I am a Java Developer and I amd eveloping and Gaming at the same time for the Prject XX).
